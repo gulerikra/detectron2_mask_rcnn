@@ -39,3 +39,13 @@ Anaconda tarafında yapılması gereken adımlar:
 9. pip install -e .
 
 Detectron2_repo içerisine detect.py kodu ve ağırlık dosyası eklenir.
+
+Test fotoğrafı:
+
+![ngbfv](https://user-images.githubusercontent.com/62421679/221659824-90beaef5-6523-4284-94a3-8b8a44eb5ae9.PNG)
+
+Çıktısı:
+
+![vffdvf](https://user-images.githubusercontent.com/62421679/221659428-fe8427d2-e2b1-4cc7-9d33-6ab992a64e92.PNG)
+
+
