@@ -37,7 +37,7 @@ cfg.MODEL.WEIGHTS = 'model_final.pth'
 predictor = DefaultPredictor(cfg)
 
 # Load image
-image_path = "eksik.png"
+image_path = "dogru.png"
 image = cv2.imread(image_path)
 
 # Make prediction
