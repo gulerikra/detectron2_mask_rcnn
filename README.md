@@ -27,6 +27,10 @@ Anaconda tarafında yapılması gereken adımlar:
 3. pip install pyyaml==5.1
 
 4. pip install torch==1.8.0+cu101 torchvision==0.9.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+
+ (Eğer bilgisayarda cuda yoksa 4. adım şu şekilde olmalı: 
+
+ pip install torch torchvision -f https://download.pytorch.org/whl/torch_stable.html)
  
 5. pip install cython pyyaml==5.1
 
@@ -38,7 +42,7 @@ Anaconda tarafında yapılması gereken adımlar:
 
 9. pip install -e .
 
-Detectron2_repo içerisine detect.py kodu ve ağırlık dosyası eklenir.
+Detectron2_repo içerisine detect.py kodu ve .pth uzantılı ağırlık dosyası eklenir.
 
 Test fotoğrafı:
 
