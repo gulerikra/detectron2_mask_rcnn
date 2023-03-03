@@ -53,3 +53,11 @@ Test fotoğrafı:
 ![vffdvf](https://user-images.githubusercontent.com/62421679/221659428-fe8427d2-e2b1-4cc7-9d33-6ab992a64e92.PNG)
 
 
+Anaconda için lazım olabilecek ipuçları:
+
+1. Anacondaya git kurmak için :  conda install -c anaconda git
+
+2. Anaconda içinde kurulu olan enviroments listesi :  conda env list
+
+3. Enviroment silmek için :  conda env remove --name <ortam-adı>
+
