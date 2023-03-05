@@ -6,9 +6,9 @@ https://github.com/wkentaro/labelme
 
 Etiketleme yapılırken poligon etiketleme yapılmalı.
 
-Dataset→ train ve val klasörü açılır.
+Dataset klasörü içerisine train ve test klasörü açılır.
 
-Train ve val içine ayrı ayrı resimler ve train.json ve val.json label dosyası eklenir.
+Train ve test içindeki fotoğraflar labelme ile etiketlenir.
 
 
 Model eğitimi için github linki:
