@@ -8,7 +8,7 @@ Etiketleme yapılırken poligon etiketleme yapılmalı.
 
 Dataset klasörü içerisine train ve test klasörü açılır.
 
-Train ve test içindeki fotoğraflar labelme ile etiketlenir.
+Train ve test içindeki fotoğraflar labelme uygulaması ile etiketlenir.
 
 
 Model eğitimi için github linki:
