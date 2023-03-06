@@ -61,3 +61,6 @@ Anaconda için lazım olabilecek ipuçları:
 
 3. Enviroment silmek için :  conda env remove --name <ortam-adı>
 
+Not!!
+
+Bilgisayarda Visual Studio yoksa pycocotools hatası alınır. Visual Studio kurulması gerekir.
