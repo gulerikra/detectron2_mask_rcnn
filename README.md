@@ -18,9 +18,9 @@ Eğitim sonunda çıkan .pth uzantılı dosya yeterli
 
 Anaconda tarafında yapılması gereken adımlar:
 
-1. conda create -n apra python=3.8.10
+1. conda create -n maskRcnn python=3.8.10
 
-2. conda activate apra
+2. conda activate maskRcnn
 
 3. pip install pyyaml==5.1
 
