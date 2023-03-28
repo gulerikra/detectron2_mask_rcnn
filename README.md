@@ -1,6 +1,6 @@
 # detectron2_mask_rcnn
 
-Dataset hazırlarken kullanılan uygulama:
+Dataset için etiketleme yapılırken kullanılan uygulama:
 
 https://github.com/wkentaro/labelme
 
