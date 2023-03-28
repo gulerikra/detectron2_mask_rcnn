@@ -19,11 +19,11 @@ setup_logger()
 # Load configuration
 cfg = get_cfg()
 cfg.MODEL.ROI_HEADS.SCORE_THRESH_TEST = 0.8  # set threshold for this model
-cfg.DATALOADER.NUM_WORKERS = 2 # Çalışan Sayısı
-cfg.MODEL.WEIGHTS = model_zoo.get_checkpoint_url("COCO-InstanceSegmentation/mask_rcnn_R_50_C4_3x.yaml") # Ağırlıkları Çeker ve Yapılandırma Dosyasına Ekler
 cfg.MODEL.ROI_HEADS.NUM_CLASSES = 2 # Sınıf Sayısı
-cfg.MODEL.WEIGHTS = 'model_final.pth'
+cfg.MODEL.WEIGHTS = 'model_final_son.pth'
+cfg.MODEL.DEVICE='cpu'   # cuda yoksa bu satır gerekli
 predictor = DefaultPredictor(cfg)
+
 
 # Load image
 image_path = "dogru.png"
