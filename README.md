@@ -11,7 +11,7 @@ Dataset klasörü içerisine train ve test klasörü açılır.
 Train ve test içindeki fotoğraflar labelme uygulaması ile etiketlenir.
 
 
-Model eğitimi için maskrcnn_detectron2.jpnyb kullanıldı.
+Model eğitimi için maskRcnn_detectron2.jpnyb kullanıldı.
 
 Eğitim sonunda çıkan .pth uzantılı dosya yeterli
 
@@ -26,9 +26,9 @@ Anaconda tarafında yapılması gereken adımlar:
 
 4. pip install torch==1.8.0+cu101 torchvision==0.9.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 
- (Eğer bilgisayarda cuda yoksa 4. adım şu şekilde olmalı: 
+ (Eğer bilgisayarda cuda yoksa 4. adım şu şekilde olmalı:)
 
- pip install torch torchvision -f https://download.pytorch.org/whl/torch_stable.html)
+ (pip install torch torchvision -f https://download.pytorch.org/whl/torch_stable.html)
  
 5. pip install cython pyyaml==5.1
 
@@ -48,7 +48,7 @@ Test fotoğrafı:
 
 Çıktısı:
 
-![vffdvf](https://user-images.githubusercontent.com/62421679/221659428-fe8427d2-e2b1-4cc7-9d33-6ab992a64e92.PNG)
+![bbb](https://user-images.githubusercontent.com/62421679/228287155-109988e1-0fa0-4bc6-a9bd-599ab681c41e.png)
 
 
 Anaconda için lazım olabilecek ipuçları:
