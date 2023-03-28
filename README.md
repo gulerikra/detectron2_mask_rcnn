@@ -16,7 +16,7 @@ Model eğitimi için maskRcnn_detectron2.jpnyb kullanıldı.
 Eğitim sonunda çıkan .pth uzantılı dosya yeterli
 
 
-Anaconda tarafında yapılması gereken adımlar:
+Modeli anaconda ile kullanabilmek için anaconda tarafında yapılması gereken adımlar:
 
 1. conda create -n maskRcnn python=3.8.10
 
