@@ -46,7 +46,7 @@ Test fotoğrafı:
 
 ![ngbfv](https://user-images.githubusercontent.com/62421679/221659824-90beaef5-6523-4284-94a3-8b8a44eb5ae9.PNG)
 
-Çıktısı:
+Değerlendirme sonucu:
 
 ![bbb](https://user-images.githubusercontent.com/62421679/228287155-109988e1-0fa0-4bc6-a9bd-599ab681c41e.png)
 
