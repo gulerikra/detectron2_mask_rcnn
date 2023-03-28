@@ -11,9 +11,7 @@ Dataset klasörü içerisine train ve test klasörü açılır.
 Train ve test içindeki fotoğraflar labelme uygulaması ile etiketlenir.
 
 
-Model eğitimi için github linki:
-
-https://github.com/yasarniyazoglu/Detectron2-MaskRcnn-Custom-Dataset
+Model eğitimi için maskrcnn_detectron2.jpnyb kullanıldı.
 
 Eğitim sonunda çıkan .pth uzantılı dosya yeterli
 
